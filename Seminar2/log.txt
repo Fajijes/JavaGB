@@ -1,0 +1,58 @@
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Code start 
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 29, 56, 31, 25, 77, 85, 96, 13]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 29, 31, 56, 25, 77, 85, 96, 13]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 29, 31, 25, 56, 77, 85, 96, 13]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 29, 31, 25, 56, 77, 85, 13, 96]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 29, 25, 31, 56, 77, 85, 13, 96]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 29, 25, 31, 56, 77, 13, 85, 96]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 25, 29, 31, 56, 77, 13, 85, 96]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 25, 29, 31, 56, 13, 77, 85, 96]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 25, 29, 31, 13, 56, 77, 85, 96]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 25, 29, 13, 31, 56, 77, 85, 96]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 25, 13, 29, 31, 56, 77, 85, 96]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[14, 13, 25, 29, 31, 56, 77, 85, 96]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+INFO: Next iteration 
+[13, 14, 25, 29, 31, 56, 77, 85, 96]
+
+сент. 25, 2022 4:01:37 PM Seminar2.bubble bubbleSort
+OFF: Code finish 
+
